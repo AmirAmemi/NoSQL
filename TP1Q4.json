@@ -1,0 +1,51 @@
+{
+  "messages": [
+    {
+      "objet": "Révolution",
+      "destinataire": "Tunisiens",
+      "expediteur": "Bouazizi",
+      "date": "2011-12-17",
+      "contenu": "Injustice",
+      "categorie": [
+        "important",
+        "peu important."
+      ]
+    },
+    {
+      "objet": "Révolution",
+      "destinataire": "Ben Ali",
+      "expediteur": "Tunisiens",
+      "date": "2012-01-14",
+      "contenu": "Injustice",
+      "categorie": [
+        "normal",
+        "important"
+      ]
+    },
+    {
+      "objet": "Parlement fermé",
+      "destinataire": "Parlement",
+      "expediteur": "Said",
+      "date": "2021-07-25",
+      "contenu": "Enquête judiciaire",
+      "categorie": [
+        "peu important.",
+        "normal"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "nom": "important",
+      "description": "Messages important"
+    },
+    {
+      "nom": "peu important.",
+      "description": "Messages peu important"
+    },
+    {
+      "nom": "normal",
+      "description": "Messages normal"
+    }
+  ]
+}

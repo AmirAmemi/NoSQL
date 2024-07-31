@@ -1,0 +1,53 @@
+[
+  {
+    "nom": "Amemi",
+    "prenom": "Amir",
+    "age": 23,
+    "amis": [
+      {
+        "nom": "Bassem",
+        "prenom": "Boukhatem",
+        "age": 23
+      }
+    ]
+  },
+  {
+    "nom": "Drissi",
+    "prenom": "Malek",
+    "age": 23,
+    "amis": [
+      {
+        "nom": "Hannechi",
+        "prenom": "Chaima",
+        "age": 23
+      },
+      {
+        "nom": "Lasouad",
+        "prenom": "Amel",
+        "age": 23
+      }
+    ]
+  },
+  {
+    "nom": "Brahem",
+    "prenom": "Chaima",
+    "age": 23,
+    "amis": [
+      {
+        "nom": "Mabrouk",
+        "prenom": "Minyar",
+        "age": 23
+      },
+      {
+        "nom": "Tarhouni",
+        "prenom": "Hamza",
+        "age": 23
+      },
+      {
+        "nom": "Debbabi",
+        "prenom": "Mohamed",
+        "age": 23
+      }
+    ]
+  }
+]

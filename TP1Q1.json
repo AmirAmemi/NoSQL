@@ -1,0 +1,46 @@
+{
+  "stock du magasin": {
+    "rayons": [
+      {
+        "nom": "fruits et legumes",
+        "produits": [
+          {
+            "ref": "pomme",
+            "prix": "2€",
+            "code": "43",
+            "en stock": true
+          },
+          {
+            "ref": "poire",
+            "prix": "1€",
+            "code": "89",
+            "en stock": false
+          },
+          {
+            "ref": "carotte",
+            "prix": "1€",
+            "code": "68",
+            "en stock": true
+          }
+        ]
+      },
+      {
+        "nom": "viande",
+        "produits": [
+          {
+            "ref": "poulet",
+            "prix": "4€",
+            "code": "28",
+            "en stock": false
+          },
+          {
+            "ref": "boeuf",
+            "prix": "3€",
+            "code": "12",
+            "en stock": true
+          }
+        ]
+      }
+    ]
+  }
+}
